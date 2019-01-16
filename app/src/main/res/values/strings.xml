@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AkademijaSQLiteAsgn</string>
+    <string name="add_students">ADD STUDENTS</string>
+    <string name="first_name">first name</string>
+    <string name="last_name">last name</string>
+    <string name="points">points</string>
+    <string name="save">SAVE</string>
+    <string name="year">year</string>
+    <string name="insert_student_failed">Error with saving students</string>
+    <string name="insert_student_successful">Student saved</string>
+    <string name="add_activity_title">Add student</string>
+    <string name="add_activity_delete_title">Delete student</string>
+</resources>
